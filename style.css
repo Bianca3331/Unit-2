@@ -1,0 +1,50 @@
+body{
+    background-color: #cc57ed8f;  
+    font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
+
+
+  } 
+  
+  h1,h2 {   
+      color: rgb(0, 0, 0);
+      text-align: center;
+      font-style: italic;
+  }
+  .email{
+      color: rgb(0, 0, 0);
+  }
+  table {
+      background-color: rgba(220, 31, 31, 0.596);
+      border-collapse: collapse;
+      width: 80%;
+      margin: 100px auto;
+      box-shadow: 0 10px 100px rgb(221, 255, 249);
+  }
+  td, th {
+      border: 3px solid rgb(255, 255, 255);
+      text-align: center;
+      padding: 8px;
+      color: rgba(0, 0, 0, 0.774);
+      font-style: oblique;
+     
+  } 
+  
+  
+  .internet{
+      text-align: center;
+  }
+  .Structura{
+      margin: 10px;
+      border: 2px solid rgb(164, 11, 11);
+  }
+  .adrese{
+      text-align: center;
+      color: rgb(255, 255, 255);
+  }
+  .Utilizarea{    
+          display: flex; 
+          justify-content: flex-start; 
+          gap: 11px; 
+          width: 10%;  
+             
+  }
